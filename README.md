@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChintanRP11
-- 👀 Interested in Backend Development and Machine Learning.
+- 👀 Interested in Backend Development, Cloud Technologies and Machine Learning.
 - Certified RHCSA (RedHat Certified System Administrator)
 - Machine Learning Certification from Coursera|Stanford
 - 📫 crpansuriya.11@gmail.com
