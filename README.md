@@ -2,7 +2,6 @@
 - 👀 Interested in Backend and Frontend Development, Cloud Technologies and Machine Learning.
 - Certified RHCSA (RedHat Certified System Administrator)
 - Machine Learning Certification from Coursera|Stanford
-- 📫 crpansuriya.11@gmail.com
 
 <!---
 ChintanRP11/ChintanRP11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
